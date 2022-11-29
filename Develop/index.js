@@ -70,7 +70,7 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: Create a function to initialize app
-function init(); {
+function init() {
     inquirer.prompt (questions)
     .then(response => {
         const md = generateMarkdown (response)
