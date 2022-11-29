@@ -30,8 +30,9 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 ## Screenshot
-<img width="674" alt="terminal" src="https://user-images.githubusercontent.com/111664734/204422802-1defc2aa-7117-48ce-8c00-af9b72403b72.png">
+![Screen Shot 2022-11-28 at 7 16 41 PM](https://user-images.githubusercontent.com/111664734/204430195-df33f2c0-ad24-4f3a-a0df-cda2a8ed66bd.png)
 
+## README Sample
 <img width="509" alt="readme-example" src="https://user-images.githubusercontent.com/111664734/204422835-825d5e53-6fa0-44c4-87b8-e5272f06d842.png">
 
 ## Video Demo
