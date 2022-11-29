@@ -33,7 +33,8 @@ THEN I am taken to the corresponding section of the README
 ![Screen Shot 2022-11-28 at 7 16 41 PM](https://user-images.githubusercontent.com/111664734/204430195-df33f2c0-ad24-4f3a-a0df-cda2a8ed66bd.png)
 
 ## README Sample
-<img width="509" alt="readme-example" src="https://user-images.githubusercontent.com/111664734/204422835-825d5e53-6fa0-44c4-87b8-e5272f06d842.png">
+![Screen Shot 2022-11-28 at 7 58 20 PM](https://user-images.githubusercontent.com/111664734/204435391-2d6894f1-b13a-41bb-a406-abe73698b3d3.png)
+
 
 ## Video Demo
 ![demo](https://user-images.githubusercontent.com/111664734/204422857-311547bc-1e23-4e50-afd4-7562b334372d.gif)
