@@ -14,7 +14,7 @@
 
 ## Description
 
-This application creates a README file based on user input.
+This application creates a README file based on the user's input.
 
 ## Installation 
 
@@ -30,9 +30,9 @@ To contribute, fork this repo and create a new branch.
 
 ## Testing
 
-Testing instructions will be placed here when available.
+Test instructions will be placed here when available.
 
 ## Questions
 - Github: [https://github.com/dianaanguyen](https://github.com/https://github.com/dianaanguyen)
-- Email: [studentemail@gmail.com](mailto:studentemail@gmail.com)
+- Email: [dianaanguyen12@gmail.com](mailto:dianaanguyen12@gmail.com)
 
