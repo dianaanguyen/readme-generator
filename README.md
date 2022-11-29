@@ -1,5 +1,7 @@
 # README Generator
 
+This application generates a README file based on the user's input. It is run through the command line using Node.js.
+
 ## User Story
 
 ```md
@@ -28,9 +30,12 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 ## Screenshot
-/Users/diananguyen/first-day/readme-generator/Assets/terminal.png
+![Screen Shot 2022-11-28 at 7 16 41 PM](https://user-images.githubusercontent.com/111664734/204430195-df33f2c0-ad24-4f3a-a0df-cda2a8ed66bd.png)
 
-/Users/diananguyen/first-day/readme-generator/Assets/readme-example.png
+## README Sample
+![Screen Shot 2022-11-28 at 7 58 20 PM](https://user-images.githubusercontent.com/111664734/204435391-2d6894f1-b13a-41bb-a406-abe73698b3d3.png)
+
 
 ## Video Demo
-/Users/diananguyen/first-day/readme-generator/Assets/demo.gif
+![demo](https://user-images.githubusercontent.com/111664734/204422857-311547bc-1e23-4e50-afd4-7562b334372d.gif)
+
