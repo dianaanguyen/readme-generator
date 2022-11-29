@@ -37,5 +37,7 @@ THEN I am taken to the corresponding section of the README
 
 
 ## Video Demo
-![demo](https://user-images.githubusercontent.com/111664734/204422857-311547bc-1e23-4e50-afd4-7562b334372d.gif)
+https://user-images.githubusercontent.com/111664734/204437800-9d9e6a35-cd0b-49a0-851a-f12cd9d0953f.mp4
+
+
 
